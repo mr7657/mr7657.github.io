@@ -1,6 +1,5 @@
-title:            Blog Title
-description:      Describe your website here.
-
+title:            All the Flags
+description:      A Place to talk about HTB and CTFs
 # put your disqus here
 disqus_shortname:
 reading_time:     false # if true, shows the estimated reading time for a post
@@ -34,7 +33,7 @@ menu:
 owner:
   name:           mr7657
   avatar:         images/avatar.jpg
-  bio:            "Love hacking and programming so much I am going to write about it"
+  bio:            "I love hacking and programming so much I am going to write about it"
   github: mr7657
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
@@ -42,7 +41,7 @@ social:
   - title: "github"
     url: "https://github.com/mr7657"
   - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+    url: ""
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:
